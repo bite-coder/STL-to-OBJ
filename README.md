@@ -1,2 +1,2 @@
 # STL-to-OBJ
-Konverter Toll für STL Dateien in OBJ
+Konverter Tool für STL Dateien in OBJ
